@@ -98,7 +98,8 @@ Farmers face major economic challenges including high input costs (like fertiliz
 - Conserves water by suggesting irrigation only when required.  
 
 ### Diagram
-![alt text](logo.webp)
+![alt text](sachu.jpg)
+
 
 ## Research and References
 - [World Bank – Digital Agriculture](https://www.worldbank.org/en/topic/agriculture/brief/digital-agriculture)  
